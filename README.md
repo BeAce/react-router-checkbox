@@ -10,3 +10,10 @@
 - 多选
 
 ![单选](show-images/checkall.png)
+
+## SET UP
+
+
+```
+npm start
+```
