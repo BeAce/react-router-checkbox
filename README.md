@@ -4,4 +4,9 @@
 ##checkbox展示效果
 
 - 单选
+
+![单选](show-images/check2.png)
+
 - 多选
+
+![单选](show-images/checkall.png)
