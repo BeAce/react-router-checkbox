@@ -14,6 +14,6 @@
 ## SET UP
 
 
-```
+```bash
 npm start
 ```
